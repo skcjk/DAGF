@@ -146,7 +146,4 @@ Logs are saved to `logs/`. To plot losses:
 ```bash
 python scripts/plot_losses.py logs/dagf_train_RUN.log --output output/plots
 ```
-
-## Third-party code
-
-Depth Anything 3 is included in `depth_anything_3/`. See its [license](depth_anything_3/LICENSE).
+.
